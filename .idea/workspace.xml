@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00dd9ed5-a21c-4991-9ac0-8ba172711b91" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shego" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LBFR2PjAwiDFBw9K0kaT0vaC1S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/brainfors/Desktop/Shego/shego/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00dd9ed5-a21c-4991-9ac0-8ba172711b91" name="Changes" comment="" />
+      <created>1675336558552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675336558552</updated>
+      <workItem from="1675336561875" duration="60000" />
+      <workItem from="1675336659497" duration="50000" />
+      <workItem from="1675434806363" duration="604000" />
+      <workItem from="1675665332420" duration="2408000" />
+      <workItem from="1675763475400" duration="147000" />
+      <workItem from="1675763654369" duration="12000" />
+      <workItem from="1675764246041" duration="4000" />
+      <workItem from="1675767698516" duration="3000" />
+      <workItem from="1675770569281" duration="450000" />
+      <workItem from="1681392796735" duration="116000" />
+      <workItem from="1681801856283" duration="201000" />
+      <workItem from="1681805237588" duration="31000" />
+      <workItem from="1681805326832" duration="24000" />
+      <workItem from="1681808600750" duration="141000" />
+      <workItem from="1681808801103" duration="66000" />
+      <workItem from="1681809746661" duration="102000" />
+      <workItem from="1681809946589" duration="16000" />
+      <workItem from="1681810032174" duration="40000" />
+      <workItem from="1681810102091" duration="11000" />
+      <workItem from="1681810224454" duration="28000" />
+      <workItem from="1681818103340" duration="45000" />
+      <workItem from="1681825895362" duration="39000" />
+      <workItem from="1681826019253" duration="7000" />
+      <workItem from="1681826190395" duration="37000" />
+      <workItem from="1681890113079" duration="145000" />
+      <workItem from="1683194797032" duration="182000" />
+      <workItem from="1683268991009" duration="58000" />
+      <workItem from="1683814562529" duration="1000" />
+      <workItem from="1691733189766" duration="2898000" />
+      <workItem from="1691736298005" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
